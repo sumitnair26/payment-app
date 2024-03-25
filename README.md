@@ -1,13 +1,6 @@
 # payment-app
 Payment Application with End to End Payment Module using NextJS
 
-
-```
-
-****The stack****
-
-```
-
 ```
 
 **Building Payment APP in the following stack**
